@@ -149,7 +149,7 @@ r.ProgSave(r"""C:/Users/Sudharshna/Documents/RoboDK""",r"""Prog1""",True,r"""E:/
 
 ### SIMULATION:
 ## Move L:
-![pic 3]()
+![pic 3](https://github.com/vijay21500269/-EXPERIMENT--01-Spatial-Descriptions-using-Robo-DK/blob/main/L.png)
 ## Move J:
 ![pic 4]()
 ## RESULT:
