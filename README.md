@@ -140,7 +140,7 @@ r.ProgSave(r"""C:/Users/Sudharshna/Documents/RoboDK""",r"""Prog1""",True,r"""E:/
 ## COORDINATE 1:
 ![pic 1](https://github.com/vijay21500269/-EXPERIMENT--01-Spatial-Descriptions-using-Robo-DK/blob/main/co%201.png)
 ## COORDINATE 2:
-![pic 2]()
+![pic 2](https://github.com/vijay21500269/-EXPERIMENT--01-Spatial-Descriptions-using-Robo-DK/blob/main/co%202.png)
 
 
 
