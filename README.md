@@ -137,12 +137,21 @@ r.ProgSave(r"""C:/Users/Sudharshna/Documents/RoboDK""",r"""Prog1""",True,r"""E:/
 
 
 ### COORDINATES OF THE MOVEMENTS: 
+## COORDINATE 1:
+![pic 1]()
+## COORDINATE 2:
+![pic 2]()
 
 
 
 
 
-### SIMULATION RESULTS :
+
+### SIMULATION:
+## Move L:
+![pic 3]()
+## Move J:
+![pic 4]()
 
 
 
